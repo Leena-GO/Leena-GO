@@ -2,6 +2,7 @@
 - 👀 I’m interested in Palmtrees, Climbing and etc.!
 - 🌱 I’m currently learning Python, ML
 - 💖 Be 谦虚，and 继续
+- ❤
 
 
 <!---
