@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, ML
 - 💖 Be 谦虚，and 继续
 - ❤
-
+- 🙏
 
 <!---
 Leena-GO/Leena-GO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
