@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Hyunkyung Go (Leena)
-- 👀 I’m interested in Palmtrees, Climbing and etc.!
-- 🌱 I’m currently learning Python, ML
-- 💖 Be 谦虚，and 继续
-- ❤❤
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Leena's%20Github&fontSize=80)
+
+
 
 <!---
 Leena-GO/Leena-GO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
